@@ -1,2 +1,10 @@
-/home/bassirou/Desktop/jspandservlet/src/main/java/com/example/webapp/servlet/UserServlet.java
+/home/bassirou/Desktop/jspandservlet/src/main/java/com/example/webapp/servlet/LogoutServlet.java
+/home/bassirou/Desktop/jspandservlet/src/main/java/com/example/webapp/dao/UserDAO.java
+/home/bassirou/Desktop/jspandservlet/src/main/java/com/example/webapp/servlet/UsersServlet.java
+/home/bassirou/Desktop/jspandservlet/src/main/java/com/example/webapp/config/DatabaseConnection.java
+/home/bassirou/Desktop/jspandservlet/src/main/java/com/example/webapp/config/DatabaseConfig.java
+/home/bassirou/Desktop/jspandservlet/src/main/java/com/example/webapp/servlet/AdminServlet.java
+/home/bassirou/Desktop/jspandservlet/src/main/java/com/example/webapp/service/AuthService.java
 /home/bassirou/Desktop/jspandservlet/src/main/java/com/example/webapp/model/User.java
+/home/bassirou/Desktop/jspandservlet/src/main/java/com/example/webapp/servlet/LoginServlet.java
+/home/bassirou/Desktop/jspandservlet/src/main/java/com/example/webapp/filter/AuthenticationFilter.java

@@ -1,2 +1,9 @@
-com/example/webapp/servlet/UserServlet.class
 com/example/webapp/model/User.class
+com/example/webapp/servlet/UsersServlet.class
+com/example/webapp/service/AuthService.class
+com/example/webapp/servlet/AdminServlet.class
+com/example/webapp/servlet/LoginServlet.class
+com/example/webapp/config/DatabaseConnection.class
+com/example/webapp/dao/UserDAO.class
+com/example/webapp/servlet/LogoutServlet.class
+com/example/webapp/filter/AuthenticationFilter.class

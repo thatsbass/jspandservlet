@@ -10,6 +10,4 @@
         <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
     
-    <!-- Note: Servlet mapping is handled by @WebServlet annotation,
-         but could also be defined here if needed -->
 </web-app>
